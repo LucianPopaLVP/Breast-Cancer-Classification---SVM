@@ -14,4 +14,4 @@ List of solved cases included in this this repo:
 *predicting breast cancer (Support Vector Machine - SVM)
 
 Datasets
-All the datasets used in this course were downloaded from datasets & Code Course
+All the datasets used in this course were downloaded from datasets & Code Course: https://www.superdatascience.com/pages/machine-learning-practical
