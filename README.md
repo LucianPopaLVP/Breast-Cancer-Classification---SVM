@@ -1,7 +1,7 @@
 # Machine-Learning-Practical-6-real-world-Aplications
 
 Machine Learning Practical: 6 real-world Aplications
-This repository contains the code from 6 practical real cases solved with Machine Learning. The contend is related with the course Machine Learning Practical: 6 Real-World Applications created / dictated by Kirill Eremenko, Hadelin de Ponteves, Dr. Ryan Ahmed, Ph.D., MBA, SuperDataScience Team and Rony Sulca.
+This repository contains the code from 6 practical real cases solved with Machine Learning. 
 
 List of solved cases included in this this repo:
 
